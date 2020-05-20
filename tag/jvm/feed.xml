@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/tag/jvm/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-05-20T04:02:53-03:00</updated>
+  <id>http://localhost:4000/tag/jvm/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Codificante | </title>
+  
+
+  
+    <subtitle>Café, código, nerdices e etc...</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">GraalVM, a máquina virtual poliglota de alto rendimento</title>
+      <link href="http://localhost:4000/graalvm-a-maquina-virtual-poliglota-de-alto-rendimento" rel="alternate" type="text/html" title="GraalVM, a máquina virtual poliglota de alto rendimento" />
+      <published>2020-03-05T07:00:00-03:00</published>
+      <updated>2020-03-05T07:00:00-03:00</updated>
+      <id>http://localhost:4000/graalvm-a-maquina-virtual-poliglota-de-alto-rendimento</id>
+      <content type="html" xml:base="http://localhost:4000/graalvm-a-maquina-virtual-poliglota-de-alto-rendimento">&lt;p&gt;Mais um teste pra falar um pouco sobre GraalVM&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Marco Ferreira</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jvm" />
+      
+
+      
+        <summary type="html">Mais um teste pra falar um pouco sobre GraalVM</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

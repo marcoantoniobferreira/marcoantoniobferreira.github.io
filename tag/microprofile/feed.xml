@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/tag/microprofile/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-05-20T04:02:53-03:00</updated>
+  <id>http://localhost:4000/tag/microprofile/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Codificante | </title>
+  
+
+  
+    <subtitle>Café, código, nerdices e etc...</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Eclipse Microprofile, um caminho para construção de microsserviços com Java</title>
+      <link href="http://localhost:4000/eclipse-microprofile-um-caminho-para-construcao-de-microsservicos-com-java" rel="alternate" type="text/html" title="Eclipse Microprofile, um caminho para construção de microsserviços com Java" />
+      <published>2020-03-27T07:00:00-03:00</published>
+      <updated>2020-03-27T07:00:00-03:00</updated>
+      <id>http://localhost:4000/eclipse-microprofile-um-caminho-para-construcao-de-microsservicos-com-java</id>
+      <content type="html" xml:base="http://localhost:4000/eclipse-microprofile-um-caminho-para-construcao-de-microsservicos-com-java">&lt;p&gt;Só testando mesmo&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Marco Ferreira</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Microprofile" />
+      
+
+      
+        <summary type="html">Só testando mesmo</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
